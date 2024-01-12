@@ -4,14 +4,14 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
-# Testing=
+# Testing
 
 For Testing the Environment
 
 For Testing Development:-
               npm run build-development
 
-              ![Development](https://github.com/Ishan189/RN_ENV_Setup/assets/125630928/0cc93d03-33d3-4a7b-b15c-4d6e81ad94cb)
+![Development](https://github.com/Ishan189/RN_ENV_Setup/assets/125630928/cdf3197a-3d80-4b71-9836-62abf3d0be92)
 
 
 For Testing Staging:-
