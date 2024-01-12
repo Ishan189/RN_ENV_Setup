@@ -4,60 +4,31 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
-## Step 1: Start the Metro Server
+# Testing=
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+For Testing the Environment
 
-To start Metro, run the following command from the _root_ of your React Native project:
+For Testing Development:-
+              npm run build-development
 
-```bash
-# using npm
-npm start
+              ![Development](https://github.com/Ishan189/RN_ENV_Setup/assets/125630928/0cc93d03-33d3-4a7b-b15c-4d6e81ad94cb)
 
-# OR using Yarn
-yarn start
-```
 
-## Step 2: Start your Application
+For Testing Staging:-
+              npm run build-staging
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+              
+![Staging](https://github.com/Ishan189/RN_ENV_Setup/assets/125630928/82b3051f-b642-4a21-9c7d-de74f9aa6ff1)
 
-### For Android
 
-```bash
-# using npm
-npm run android
+For Testing Production:-
+              npm run build-production
+              
+![Production](https://github.com/Ishan189/RN_ENV_Setup/assets/125630928/9d3a63d1-7c98-4694-addd-009d9445ffac)
 
-# OR using Yarn
-yarn android
-```
 
-### For iOS
 
-```bash
-# using npm
-npm run ios
 
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
 
 ### Now what?
 
